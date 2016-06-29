@@ -1,0 +1,22 @@
+---
+title: "Epistemische Überzeugungen Lehramtsstudierender"
+author: "Disputation Samuel Merk, 9. März 2016."
+output: 
+  ioslides_presentation:
+    css: Style/my.css
+    incremental: no
+    logo: Img/logo.png
+    smaller: no
+    widescreen: yes
+bibliography: Bib/library.bib
+csl: Bib/apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Inhaltlicher und organisatorischer Überblick
+
+
+
