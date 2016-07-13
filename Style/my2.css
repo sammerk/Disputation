@@ -7,9 +7,8 @@ b, strong {
 
 
 
-  
-}
-
+.selectize-dropdown { font-size: 12px; line-height: 14px; }
+.selectize-input { font-size: 14px; line-height: 14px;}
 
 em {
     font-style: italic !important;
@@ -1583,5 +1582,8 @@ item {
   font-size: 14px;
 }
 
-.selectize-dropdown { font-size: 12px; line-height: 14px; }
-.selectize-input { font-size: 14px; line-height: 14px;}
+
+#shiny-presentation {font-size: 48px;}
+
+  
+slides > slide { overflow: scroll; }
