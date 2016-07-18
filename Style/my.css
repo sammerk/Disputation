@@ -494,9 +494,9 @@ b {
 
 /* line 266, ../scss/default.scss */
 a {
-  color: #2a7cdf;
+  color: #A51E41;
   text-decoration: none;
-  border-bottom: 1px solid rgba(42, 124, 223, 0.5);
+  border-bottom: 1px solid rgba(232, 237, 242, 0.5);
 }
 /* line 271, ../scss/default.scss */
 a:hover {
@@ -1585,3 +1585,5 @@ item {
 
 .selectize-dropdown { font-size: 12px; line-height: 14px; }
 .selectize-input { font-size: 14px; line-height: 14px;}
+
+slides > slide { overflow: scroll;}
