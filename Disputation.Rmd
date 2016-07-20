@@ -62,7 +62,7 @@ Die interaktiven Folien können unter https://merk.shinyapps.io/mindthegap und d
 * **In Überblicksarbeiten**
      * Definition I: *[...] refers to what individuals think knowledge is and how they think that they and others know.* [@Hofer2012]
      * Definition II: *[...] refers to the theories or beliefs that students (and other individuals) hold about knowledge and the process of knowing.* [@Braten2010]  
-* **Bibliographie**
+* **"Epistemic Somethings" vs "epistemologische Überzeugungen"**
      * ![alt text](Img/wordcloud_1.svg)  
 * **Arbeitsdefinition:** Überzeugungen bzgl. der Natur und Genese von Wissen
 
@@ -82,7 +82,7 @@ Die interaktiven Folien können unter https://merk.shinyapps.io/mindthegap und d
           * Interpretation der Faktoren als naiv--sophistiziert Kontinuum kann problematisch sein [@Elby2001; @Klopp2014; @Peter2015; @Stahl2011]
      * **Positionale Konzeptualisierungen:** 
           * Allg. Kritik an der Eindimensionalitätsannahme [@Hofer1997; @Limon2006; @Priemer2006]
-          * Operationalsierung widerspricht in vielen Fällen der Eindimensionalitätsannahme [@Barzilai2015; @King1994; @Krettenauer2004; @Kuhn2000; @Peter2015]
+          * Operationalisierung widerspricht in vielen Fällen der Eindimensionalitätsannahme [@Barzilai2015; @King1994; @Krettenauer2004; @Kuhn2000; @Peter2015]
 
 
 # Duale Natur epistemischer Überzeugungen Lehramtsstudierender
@@ -116,37 +116,30 @@ Abb. 1: Theory of Integrated Domains in Epistemology. Abb. nach (Muis et al., 20
 
 
 ## Duale Natur: Interaktives Datenbeispiel {.nullachtem}
-<iframe src="http://unterrichtsfeedback.net/mind_the_gap/" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" id="iframe_container" frameborder="0" height=200px width=355px></iframe>
+<iframe src="http://46.101.230.125:3838/mind_the_gap/" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" id="iframe_container" frameborder="0" height=200px width=355px></iframe>
 
 
 ## Duale Natur: Modellierung {.nullsechsem}
-<center><img src="Img/duale_natur.png" height="420px" /></center>
+<center><img src="Img/duale_natur.png" height="420px"></center>
 
 Abb. 2: Pfaddiagramm eines MLSEM ($\chi^2$ = 234.789, df = 134, RMSEA = 0.020, CFI = 0.938, TLI = 0.925 SRMR.Within = 0.028, SRMR.Between = 0.064). Die Residualkovarianz $Cov(gr_{1ij}^{b}, gr_{3ij}^{b})$ sowie das Messmodell des D-Indexes (= di) sind nicht dargestellt.
-tr = TR = theorienspezifischer Relativismus; CM = Cognitive Theory of Multimedia Learning; BF = Big Fish Little Pond Effect; BM = Bullying Mobbing; IN = Inklusion; GT = Ganztagesschule.
+$X_{ij}$ = Variable X bezüglich Gegenstand i und Person j; tr = TR = theorienspezifischer Relativismus; CM = Cognitive Theory of Multimedia Learning; BF = Big Fish Little Pond Effect; BM = Bullying Mobbing; IN = Inklusion; GT = Ganztagesschule.
 Alle Strukturmodellpfade sind bei p = .01 signifikant.
 
 
 # Die Kalibrierungshypothese
 
-
-## Kalibrierungshypothese: Rahmenmodell {.nullsiebenem}
-<center><img src="Img/COPES.png" height="500px" /></center>
-<div class="centered">
-Abb. 3: Das COPES-Modell selbstregulierten Lernens. Abb. nach [@Winne1998]
-</div>
-
 ## Die Kalibrierungshypothese I
 * Erweiterung des klassischen Kalibrierungsbegriffs [@Alexander2013; @Nelson1991] durch Stephanie Pieschl [@Pieschl2009] auf die Passung internaler Lernprozesse und allgemeiner externaler Bedingungen  
 
-<center><img src="Img/Extended_Calibration.png" height="320px" /> 
+<center><img src="Img/calibration.svg" height="320px" /> 
 <div class="centered" ><font size="-1">
 Abb. 4: Erweiterte Definition des Kalibrierungsbegriffs nach [@Pieschl2009]. Abbildung (ebd. S. 16).
 </font></div>
 
 
 ## Die Kalibrierungshypothese II
-* Bromme et al. [-@Bromme2010] beschreiben kalibrierende Wirkung epistemsicher Überzeugungen im Kontext selbstregulierten Lernens als "Linsenfunktion".
+* Bromme et al. [-@Bromme2010] beschreiben kalibrierende Wirkung epistemischer Überzeugungen im Kontext selbstregulierten Lernens als "Linsenfunktion".
 <center><img src="Img/Linsenfunktion.png" height="320px" /></center>
 <div class="centered" ><font size="-1">
 Abb. 5: Erweiterte Kalibrierung als Linsenfunktion nach [@Pieschl2009]. Eigene Darstellung.
@@ -154,7 +147,7 @@ Abb. 5: Erweiterte Kalibrierung als Linsenfunktion nach [@Pieschl2009]. Eigene D
 
 
 ## Kalibrierungshypothese: Eigener Befund {.nullachtem}
-* Stichprobe: _N_ = 805 Lehramtsstudierende im Grundstudium
+* Stichprobe: __N__ = 805 Lehramtsstudierende im Grundstudium
 * Material: 
      * Drei Aufgaben unterschiedlicher Komplexität (revidiert) nach Bloom [@Anderson2001].
      * COPES-Questionaire [@Pieschl2008c].
@@ -163,21 +156,47 @@ Abb. 5: Erweiterte Kalibrierung als Linsenfunktion nach [@Pieschl2009]. Eigene D
 * Ergebnisse:
 <center><img src="Img/Kalibrierung.png" height="220px" /></center>
 
+# Epistemische Überzeugungen und Professionalität
+## Epistemische Überzeugungen und Professionalität
+* Explizitem Bezug der Forschung zu epistemischen Überzeugungen auf die Professionalisierungsforschung wird vielfach hohes Potential zugemessen [@Baumert2006; @Bromme1992; @Hofer2010; @Hofer2010; @Muis2004; @Tsai2007; @Olafson2010]
+* Dieser Forderung folgend, wurde eine Verhältnisbestimmung innerhalb des deutschsprachigen Diskurses vorgenommen, 
+* und infolge dessen insbesondere die Rolle epistemischer Überzeugungen für die Wahrnehmung des Theorie-Praxis-Verhältnis untersucht
 
-## Epistemische Überzeugungen und Professionalität I
-* Explizitem Bezug der Forschung zu epistemischen Überzeugungen auf die Professionalisierungsforschung wird vielfach hohes Potential zugemessen [@Baumert2006; @Bromme1992; @Hofer2010; @Hofer2010; @Muis2004; @Tsai2007; @Olafson2010].
-* "Personal Epistemology in Teacher Education" wird von manchen Autorinnen als "emerging field" gesehen [@Brownlee2015].
-* Hauptsächlich bearbeitet werden:
-     * Rolle epistemischer Überzeugungen im Überzeugungssystem (insb. Verhältnis zu Lehr- Lerntheoretischen Überzeugungen) [vgl. @Lee2011]
-     * Kohärenz zu unterrichtlichem Handeln (meist auf Sichtstrukturebene) [vgl. @Schwartz2011]
-* Sehr große konzeptuelle und methodologische Heterogenität 
 
+
+## Epistemische Überzeugungen und Professionalität: Eigene Befunde
+* Epistemische Überzeugungen prädizieren die Bedeutsamkeitseinschätzungen von pädagogischem und fachidaktischem Wissen für den (KMK-)Kompetenzerwerb bei Referendarinnen und Referendaren [@Merk2016a].
+* Epistemische Überzeugungen prädizieren die Praxisrelevanz bildungswissenschaftlicher Gegenstaände nach Kontrolle motivationaler und affektiver Variablen [@Merk2016g]
+
+## Epistemische Überzeugungen und Professionalität: Interaktives Datenbeispiel
+<iframe src="http://46.101.230.125:3838/mind_the_gap_short/" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" id="iframe_container" frameborder="0" height=200px width=355px></iframe>
+
+
+## Ergebnisse aus Mehrebenenstrukturgleichungsmodellierung {.nullsechsem}
+<center><img src="Img/mind_the_gap_mlsem.png" height="420px"></center>
+Pfaddiagramm eines MLSEM ($\chi^2$ = 234.789, df = 134, RMSEA = 0.020, CFI = 0.938, TLI = 0.925 SRMR.Within = 0.028, SRMR.Between = 0.064). Die Residualkovarianz $Cov(gr_{1ij}^{b}, gr_{3ij}^{b})$ sowie das Messmodell des D-Indexes (= di) sind nicht dargestellt.
+$X_{ij}$ = Variable X bezüglich Gegenstand i und Person j; tp = TP = Theorie-Praxis-Relation; tr = TR = theorienspezifischer Relativismus; CM = Cognitive Theory of Multimedia Learning; BF = Big Fish Little Pond Effect; BM = Bullying Mobbing; IN = Inklusion; GT = Ganztagesschule.
+Alle Strukturmodellpfade sind bei p = .01 signifikant.
+
+
+## Ausblick
+* Replikation der Befunde zum Theorie-Praxis-Verhältnis auf Large-Scale-Daten (BILWIS)
+* Epistemische Emotionen, epistemische Vertrauenswürdigkeit?
+* Effekte einer Offenlegung des epistemologischen Status und der Erkenntnismethode bildungswissenschaftlicher Gegenstände?
+* Epistemische Überzeugungen als notwendige/hinreichende Bedingung der Professionalitätsentwicklung?
+
+# Anhang
+
+## Kalibrierungshypothese: Rahmenmodell {.nullsiebenem}
+<center><img src="Img/COPES.png" height="450px" /></center>
+<div class="centered">
+Abb. 3: Das COPES-Modell selbstregulierten Lernens. Abb. nach [@Winne1998]
+</div>
 
 ## Epistemische Überzeugungen und Professionalität II {.nullachtem}
 ### Verhältnisbestimmung innerhalb des deutschsprachigen Diskurses
 * Kompetenztheoretischer Ansatz
      * eÜ sind generischer Bestandteil
-     * Funktionalität im Sinne fachdidaktischer Konzeptualisierungen
      * __Filter, Framing__ und __Guiding__ Funktionalität [@Fives2012] auch innerhalb der Kompetenzaspekte/-bereiche 
 * Strukturtheoretischer Ansatz
      * Bezug weit weniger explizit
@@ -188,27 +207,19 @@ Abb. 5: Erweiterte Kalibrierung als Linsenfunktion nach [@Pieschl2009]. Eigene D
      
 > __$\Rightarrow$ Epistemische Überzeugungen sind _funktional_ für die Entwicklung von Professionalität von Lehrerinnen und Lehrern__
 
+## Skalenhandbuch zu den illustrativen Daten
+<iframe id="iframepdf" src="attachments/Codebook_P4.html"></iframe>
 
-## Epistemische Überzeugungen und Professionalität: Eigene Befunde
-* Epistemische Überzeugungen prädizieren die Bedeutsamkeitseinschätzungen von pädagogischem und fachidaktischem Wissen für den (KMK-)Kompetenzerwerb bei Referendarinnen und Referendaren [@Merk2016a].
-* Epistemische Überzeugungen prädizieren die Praxisrelevanz bildungswissenschaftlicher Befunde nach Kontrolle motivationaler und affektiver Variablen [@Merk2016g]
+## Artikel 1
+<iframe id="iframepdf" src="attachments/Artikel_1_A.pdf"></iframe>
 
-## Epistemische Überzeugungen und Professionalität: Interaktives Datenbeispiel
-### Interaktives Beispiel
+## Artikel 2
+<iframe id="iframepdf" src="attachments/Artikel_2_A.pdf"></iframe>
 
+## Artikel 3
+<iframe id="iframepdf" src="attachments/Artikel_3_A.pdf"></iframe>
 
-## Ergebnisse aus Mehrebenenstrukturgleichungsmodellierung
-<img src="Img/mind_the_gap_mlsem.png" width="80%" />
-<div class="centered" ><font size="-1">
-Pfaddiagramm eines MLSEM ($\chi^2$ = 234.789, df = 134, RMSEA = 0.020, CFI = 0.938, TLI = 0.925 SRMR.Within = 0.028, SRMR.Between = 0.064). Die Residualkovarianz $Cov(gr_{1ij}^{b}, gr_{3ij}^{b})$ sowie das Messmodell des D-Indexes (= di) sind nicht dargestellt.
-tr = TR = theorienspezifischer Relativismus; CM = Cognitive Theory of Multimedia Learning; BF = Big Fish Little Pond Effect; BM = Bullying Mobbing; IN = Inklusion; GT = Ganztagesschule.
-Alle Strukturmodellpfade sind bei p = .01 signifikant.
-</font></div>
-
-## Ausblick
-* Replikation der Befunde zum Theorie-Praxis-Verhältnis auf Large-Scale-Daten (BILWIS)
-* Epistemische Emotionen, epistemische Vertrauenswürdigkeit
-* Effekte einer Offenlegung der Erkenntnismethode und des epistemologischen Status bildungswissenschaftlicher Gegenstände. 
-* Epistemische Überzeugungen als notwendige Bedingung der Professionalitätsentwicklung.
+## Artikel 4
+<iframe id="iframepdf" src="attachments/Artikel_4_A.pdf"></iframe>
 
 ## Literatur {.nullvierem}

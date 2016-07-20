@@ -2,8 +2,8 @@ name: Disputation
 account: samue_merk
 server: beta.rstudioconnect.com
 appId: 1270
-bundleId: 2502
+bundleId: 2589
 url: https://beta.rstudioconnect.com/samue_merk/Disputation/
-when: 1468386271.89211
+when: 1468903668.93383
 asMultiple: FALSE
 asStatic: FALSE
