@@ -1,6 +1,6 @@
 ---
 title: "Epistemische Überzeugungen Lehramtsstudierender"
-author: "Disputation Samuel Merk, 25. Juli 2016."
+author: "Disputation Samuel Merk, 25. Juli 2016"
 output: 
   ioslides_presentation:
     css: Style/my.css
@@ -34,11 +34,12 @@ knitr::opts_chunk$set(echo = FALSE)
 Die interaktiven Folien können unter https://merk.shinyapps.io/mindthegap und deren Quellcode unter https://github.com/sammerk/Disputation abgerufen werden</font></span>
 </div>
 
+<!--
 ## Überblick anhand eines Beispiels {.flexbox .vcenter}
 <div class="centered">
 > _"Alle diese Sachen, die wir im BS machen, <span style="color:#A51E41">die gibt es ja nicht wirklich, die sind ja ausgedacht</span>, irgendwie so <span style="color:#A51E41">wischiwaschi</span> - und dann <span style="color:#B4A069">schreibt man eine Klausur dazu</span> - toll! <span style="color:#37414B">In Chemie ist das halt anders, bei den meisten Sachen</span> zumindest."_
 </div>
-
+-->
 
 
 # Epistemische Überzeugungen
@@ -87,31 +88,26 @@ Die interaktiven Folien können unter https://merk.shinyapps.io/mindthegap und d
 
 # Duale Natur epistemischer Überzeugungen Lehramtsstudierender
 
-
-## Duale Natur: Forschungsstand {.nullachtem}
-
-* Dimensionale Konzeptualisierungen nahmen Eindimensionalität __und__ Domänengeneralität an [@Schommer1990].
-* Epistemologische Unterschiede zwischen akademischen Domänen = Unterschiede in epistemischen Überzeugungen? [@Royce1980b; @Schmid2007a].
-* Within- oder between-person Domänenspezifität [@Buehl2002; @Muis2006]?
-* Ergebnisse einer einschlägigen Review von Muis, Bendixen, & Haerle [-@Muis2006]
-     * |                      | within-design | between-design |
-       |----------------------|---------------|----------------|
-       | Domänen- Spezifität  | 4             | 8              |
-       | Domänen- generalität | 1             | 0              |
-       | Duale Natur          | 6             | 0              |
-* Kritik: Theoretische Einbettung unklar; Untersuchungsdesigns teilw. inadäquat [@Limon2006; @Merk2016b; @Trautwein2004]
-
-
 ## Duale Natur: Rahmenmodell {.nullsiebenem}
 <center><img src="Img/TIDE.png" height="420px" /></center>
 <div class="centered">
 Abb. 1: Theory of Integrated Domains in Epistemology. Abb. nach (Muis et al., 2006, S. 30).
 </div>
 
+## Duale Natur: Forschungsstand {.nullachtem}
+* Es wird entweder within- oder between-person Domänenspezifität untersucht [@Buehl2002; @Muis2006]
+* Ergebnisse einer einschlägigen Review von Muis, Bendixen, & Haerle [-@Muis2006]
+     * |                      | within-design | between-design |
+       |----------------------|:-------------:|:--------------:|
+       | Domänenspezifität    | 4             | 8              |
+       | Domänengeneralität   | 1             | 0              |
+       | Duale Natur          | 6             | 0              |
+* Kritik: Theoretische Einbettung unklar; Untersuchungsdesigns teilw. inadäquat [@Limon2006; @Merk2016b; @Trautwein2004]
+
 
 ## Duale Natur: Eigene Befunde
-* Between-person Differenzen in epistemischen Überzeugungen zu bildungswissenschaftlichem Wissen sind sowohl aus dimensionaler [@Merk2016e], als auch aus positionaler [@Merk2016b; @Merk2016d] und personaler [@Merk2013] Perspektive marginal und lassen sich selten inferenzstatistisch absichern.
-* Within-person Variation in epistemischen Überzeugungen ist sowohl über verschiedene Disziplinen [@Merk2016b] als auch innerhalb der Bildungswissenschaften [@Merk2016e; @Merk2016d] erheblich.
+* Between-person Differenzen in epistemischen Überzeugungen zu bildungswissenschaftlichem Wissen sind sowohl aus dimensionaler [@Merk2016e], als auch aus positionaler [@Merk2016b; @Merk2016d] und personaler [@Merk2013] Perspektive eher kleiner oder moderater Größe
+* Within-person Variation in epistemischen Überzeugungen ist sowohl über verschiedene Disziplinen [@Merk2016b] als auch innerhalb der Bildungswissenschaften [@Merk2016e; @Merk2016d] erheblich
 * Kontexte scheinen eine wesentlich geringere Rolle zu spielen als der Gegenstand selbst [@Merk2016d]
 
 
@@ -123,23 +119,23 @@ Abb. 1: Theory of Integrated Domains in Epistemology. Abb. nach (Muis et al., 20
 <center><img src="Img/duale_natur.png" height="420px"></center>
 
 Abb. 2: Pfaddiagramm eines MLSEM ($\chi^2$ = 234.789, df = 134, RMSEA = 0.020, CFI = 0.938, TLI = 0.925 SRMR.Within = 0.028, SRMR.Between = 0.064). Die Residualkovarianz $Cov(gr_{1ij}^{b}, gr_{3ij}^{b})$ sowie das Messmodell des D-Indexes (= di) sind nicht dargestellt.
-$X_{ij}$ = Variable X bezüglich Gegenstand i und Person j; tr = TR = theorienspezifischer Relativismus; CM = Cognitive Theory of Multimedia Learning; BF = Big Fish Little Pond Effect; BM = Bullying Mobbing; IN = Inklusion; GT = Ganztagesschule.
-Alle Strukturmodellpfade sind bei p = .01 signifikant.
+$X_{ij}^{w/b}$ = within/between-Variable X bezüglich Gegenstand i und Person j; tr = TR = theorienspezifischer Relativismus; CM = Cognitive Theory of Multimedia Learning; BF = Big Fish Little Pond Effect; BM = Bullying Mobbing; IN = Inklusion; GT = Ganztagesschule.
+Alle Modellpfade sind bei p = .01 signifikant.
 
 
 # Die Kalibrierungshypothese
 
 ## Die Kalibrierungshypothese I
-* Erweiterung des klassischen Kalibrierungsbegriffs [@Alexander2013; @Nelson1991] durch Stephanie Pieschl [@Pieschl2009] auf die Passung internaler Lernprozesse und allgemeiner externaler Bedingungen  
+* Erweiterung des klassischen Kalibrierungsbegriffs [@Alexander2013; @Nelson1991] durch Stephanie Pieschl [@Pieschl2009]
 
-<center><img src="Img/calibration.svg" height="320px" /> 
+<center><img src="Img/Extended_Calibration.png" height="320px" /> 
 <div class="centered" ><font size="-1">
 Abb. 4: Erweiterte Definition des Kalibrierungsbegriffs nach [@Pieschl2009]. Abbildung (ebd. S. 16).
 </font></div>
 
 
 ## Die Kalibrierungshypothese II
-* Bromme et al. [-@Bromme2010] beschreiben kalibrierende Wirkung epistemischer Überzeugungen im Kontext selbstregulierten Lernens als "Linsenfunktion".
+*  Kalibrierende Wirkung epistemischer Überzeugungen als "Linsenfunktion" [@Bromme2010]
 <center><img src="Img/Linsenfunktion.png" height="320px" /></center>
 <div class="centered" ><font size="-1">
 Abb. 5: Erweiterte Kalibrierung als Linsenfunktion nach [@Pieschl2009]. Eigene Darstellung.
@@ -147,36 +143,34 @@ Abb. 5: Erweiterte Kalibrierung als Linsenfunktion nach [@Pieschl2009]. Eigene D
 
 
 ## Kalibrierungshypothese: Eigener Befund {.nullachtem}
-* Stichprobe: __N__ = 805 Lehramtsstudierende im Grundstudium
-* Material: 
-     * Drei Aufgaben unterschiedlicher Komplexität (revidiert) nach Bloom [@Anderson2001].
-     * COPES-Questionaire [@Pieschl2008c].
-     * CAEB [@Stahl2006].
-* Modellierung: Random-Intercept HLM mit Level-1 Dummyvariablen für Komplexitätsniveaus, Level-2 Prädiktor "Texture" und Cross-Level Interaktionstermen.     
-* Ergebnisse:
-<center><img src="Img/Kalibrierung.png" height="220px" /></center>
+
+<center><img src="Img/Kalibrierung.png" height="400px" /></center>
+<div class="centered" ><font size="-1">
+Abb. 6: Stichprobe: <i>N</i> = 805 Lehramtsstudierende im Grundstudium; Material: Drei Aufgaben unterschiedlicher Komplexität (revidiert) nach Bloom [@Anderson2001], COPES-Questionaire [@Pieschl2008c], CAEB [@Stahl2006].
+</font></div>
+
 
 # Epistemische Überzeugungen und Professionalität
 ## Epistemische Überzeugungen und Professionalität
 * Explizitem Bezug der Forschung zu epistemischen Überzeugungen auf die Professionalisierungsforschung wird vielfach hohes Potential zugemessen [@Baumert2006; @Bromme1992; @Hofer2010; @Hofer2010; @Muis2004; @Tsai2007; @Olafson2010]
-* Dieser Forderung folgend, wurde eine Verhältnisbestimmung innerhalb des deutschsprachigen Diskurses vorgenommen, 
-* und infolge dessen insbesondere die Rolle epistemischer Überzeugungen für die Wahrnehmung des Theorie-Praxis-Verhältnis untersucht
+* Dieser Forderung folgend, wurde eine Verhältnisbestimmung innerhalb des deutschsprachigen Diskurses vorgenommen
+* Und infolge dessen insbesondere die Rolle epistemischer Überzeugungen für die Wahrnehmung der Theorie-Praxis-Integration untersucht
 
 
 
 ## Epistemische Überzeugungen und Professionalität: Eigene Befunde
-* Epistemische Überzeugungen prädizieren die Bedeutsamkeitseinschätzungen von pädagogischem und fachidaktischem Wissen für den (KMK-)Kompetenzerwerb bei Referendarinnen und Referendaren [@Merk2016a].
-* Epistemische Überzeugungen prädizieren die Praxisrelevanz bildungswissenschaftlicher Gegenstaände nach Kontrolle motivationaler und affektiver Variablen [@Merk2016g]
+* Epistemische Überzeugungen prädizieren die Bedeutsamkeitseinschätzungen von pädagogischem und fachidaktischem Wissen für den (KMK-)Kompetenzerwerb bei Referendarinnen und Referendaren [@Merk2016a]
+* Epistemische Überzeugungen prädizieren die Theorie-Praxis-Integration bildungswissenschaftlicher Gegenstände nach Kontrolle motivationaler und affektiver Variablen [@Merk2016g]
 
-## Epistemische Überzeugungen und Professionalität: Interaktives Datenbeispiel
+## Interaktives Datenbeispiel
 <iframe src="http://46.101.230.125:3838/mind_the_gap_short/" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" id="iframe_container" frameborder="0" height=200px width=355px></iframe>
 
 
 ## Ergebnisse aus Mehrebenenstrukturgleichungsmodellierung {.nullsechsem}
 <center><img src="Img/mind_the_gap_mlsem.png" height="420px"></center>
 Pfaddiagramm eines MLSEM ($\chi^2$ = 234.789, df = 134, RMSEA = 0.020, CFI = 0.938, TLI = 0.925 SRMR.Within = 0.028, SRMR.Between = 0.064). Die Residualkovarianz $Cov(gr_{1ij}^{b}, gr_{3ij}^{b})$ sowie das Messmodell des D-Indexes (= di) sind nicht dargestellt.
-$X_{ij}$ = Variable X bezüglich Gegenstand i und Person j; tp = TP = Theorie-Praxis-Relation; tr = TR = theorienspezifischer Relativismus; CM = Cognitive Theory of Multimedia Learning; BF = Big Fish Little Pond Effect; BM = Bullying Mobbing; IN = Inklusion; GT = Ganztagesschule.
-Alle Strukturmodellpfade sind bei p = .01 signifikant.
+$X_{ij}^{w/b}$ = within/between-Variable X bezüglich Gegenstand i und Person j; tp = TP = Theorie-Praxis-Relation; tr = TR = theorienspezifischer Relativismus; CM = Cognitive Theory of Multimedia Learning; BF = Big Fish Little Pond Effect; BM = Bullying Mobbing; IN = Inklusion; GT = Ganztagesschule.
+Alle durchgezogenen Modellpfade sind bei p = .05 signifikant.
 
 
 ## Ausblick
@@ -188,7 +182,7 @@ Alle Strukturmodellpfade sind bei p = .01 signifikant.
 # Anhang
 
 ## Kalibrierungshypothese: Rahmenmodell {.nullsiebenem}
-<center><img src="Img/COPES.png" height="450px" /></center>
+<center><img src="Img/COPES.svg" height="450px" /></center>
 <div class="centered">
 Abb. 3: Das COPES-Modell selbstregulierten Lernens. Abb. nach [@Winne1998]
 </div>
