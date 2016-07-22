@@ -37,6 +37,15 @@
 % units.
 \usepackage{units}
 
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\@caption}
+  {\noindent\csname fnum@#1\endcsname: \ignorespaces}
+  {}
+  {}{}
+\makeatother
+
+
 
 \setcounter{secnumdepth}{-1}
 
@@ -101,13 +110,19 @@ Der in ersten Forschungsarbeiten verwendete Begriff ``epistemologi- sche
 Überzeugungen'' unterliegt der Kritik, Überzeugungen bzgl. der
 Wissenschaftstheorie zu definieren, wohingegen eigentlich Überzeugungen
 gemeint sind, die Entitäten betreffen, welche auch in der
-Wissenschaftstheorie vorkommen aber nicht wissenschaftstheoretischer
+Wissenschaftstheorie vorkommen, aber nicht wissenschaftstheoretischer
 Natur sind. Heute liegt eine Vielzahl an Begrifflichkeiten vor, die
 auf jeweils unterschiedlich akzentuierten Konzeptualisierungen basieren.
 
 \begin{marginfigure}
-\includegraphics{Handout_files/figure-latex/fig-margin1-1} \caption[Begrifflichkeiten nach Greene et al]{Begrifflichkeiten nach Greene et al., 2016. Textgröße proportional zu Suchtrefferhäufigkeiten in GoogleScholar.}\label{fig:fig-margin1}
+\includegraphics{Handout_files/figure-latex/fig-margin1-1} 
+\caption{\noindent{Begrifflichkeiten nach Greene et al., (2016). Textgröße proportional zu Suchtrefferhäufigkeiten in GoogleScholar.}}
+\label{fig:fig-margin1}
 \end{marginfigure}
+%\begin{marginfigure}
+%Begrifflichkeiten nach Greene et al., (2016). Textgröße proportional zu Suchtrefferhäufigkeiten in GoogleScholar.
+%\end{marginfigure}
+
 
 \subsection{Systematisierung und Kritik gängiger
 Konzeptualisierungen}\label{systematisierung-und-kritik-gangiger-konzeptualisierungen}

@@ -1,0 +1,35 @@
+\documentclass{tufte-book}
+\usepackage{regexpatch}
+
+\usepackage{lipsum} % just for the example
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\@caption}
+  {\noindent\csname fnum@#1\endcsname: \ignorespaces}
+  {}
+  {}{}
+\makeatother
+
+\begin{document}
+
+\listoffigures
+
+\chapter{Title}
+
+\lipsum[2]
+
+\begin{figure}
+Something
+\caption{A numbered caption}
+\end{figure}
+
+\lipsum[3]
+
+\begin{figure}
+Something
+\caption{An unnumbered caption}
+\end{figure}
+
+\lipsum[4]
+
+\end{document}
