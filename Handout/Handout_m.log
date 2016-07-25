@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.13)  22 JUL 2016 14:02
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.13)  22 JUL 2016 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,10 +1114,6 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 90.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 1043) in paragraph at lines 90--92
-\EU1/lmr/m/n/8 Folien: []$[][][][][] [] [] [] [][][][] [] 
- []
-
 
 LaTeX Warning: Marginpar on page 1 moved.
 

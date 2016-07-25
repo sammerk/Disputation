@@ -25,7 +25,7 @@ options(htmltools.dir.version = FALSE)
 
 # Einführung
 ```{marginfigure_url}
-Folien: https://beta.rstudioconnect.com/content/1322; Quellcode: https://github.com/sammerk/Disputation
+Folien: http://46.101.230.125:3838/Disputation; Quellcode: https://github.com/sammerk/Disputation
 ```
 Der Begriff **Epistemologie** stellt ein modernes Kopositum aus *Episteme (= Erkenntnis, Wissen, Wissenschaft)* und *Logos (= Wissenschaft, Lehre)*^[Meidl, C.N. (2009). *Wissenschaftstheorien für SozialforscherInnen.* Wien: Böhlau.] dar. **Epistemische Überzeugungen** werden in der Literatur als Überzeugungen definiert, welche die Natur und Genese von Wissen betreffen und typischerweise die Aspekte, *Quelle*, *Rechtfertigung*, *Struktur* und *Komplexität* enthalten^[Bråten, I. (2010). Personal Epistemology in Education: Concepts, Issues, and Implications. In: P. Peterson, E. Baker & B. McGaw, (Hrsg.), *International Encyclopedia of Education*, S. 211–217. Oxford: Elsevier.].
 
